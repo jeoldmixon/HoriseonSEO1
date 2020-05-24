@@ -18,3 +18,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+![Thumbnail of website](./assets/jeoldmixon.github.io_HoriseonSEO1_.png)
